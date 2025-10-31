@@ -34,9 +34,11 @@ Perfecto para eventos escolares, ferias, o fiestas temáticas de Halloween 🎃
 ---
 
 ## 🖼️ Recursos multimedia
-Coloca tus archivos en una de las siguientes ubicaciones 👇  
+Coloca tus archivos en una de las siguientes ubicaciones 👇 
 
 **Google Form:**
+
+
 <img width="864" height="707" alt="image" src="https://github.com/user-attachments/assets/c80a4c3f-f09e-4241-8581-ac5c4adfa38e" />
 <img width="866" height="685" alt="image" src="https://github.com/user-attachments/assets/34915814-5895-4867-a3a5-c47a91af3d27" />
 <img width="863" height="494" alt="image" src="https://github.com/user-attachments/assets/1b7ecee1-970e-4719-b227-39fa7eac137a" />
